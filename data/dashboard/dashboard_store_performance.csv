@@ -1,0 +1,6 @@
+store_id,store_name,quantity_sold,transaction_count,total_revenue,avg_transaction_value,revenue_rank,transaction_rank
+1,HITEC City Store,2095,373,213705.0,572.94,1,1
+5,Dilsukhnagar Store,1974,351,192085.0,547.25,2,2
+3,Ameerpet Store,1818,339,183365.0,540.9,3,3
+2,Banjara Hills Store,1838,338,170445.0,504.28,4,4
+4,Kukatpally Store,1630,313,161160.0,514.89,5,5

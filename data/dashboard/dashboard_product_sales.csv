@@ -1,0 +1,13 @@
+product_id,product_name,category,quantity_sold,total_revenue,transaction_count
+1012,Biscuits Mix 200g,Snacks,1778,71120.0,167
+1003,Amul Milk 1L,Dairy,930,51150.0,155
+1011,Lays Chips 40g,Snacks,781,23430.0,150
+1001,Basmati Rice 5kg,Groceries,707,318150.0,125
+1002,Wheat Flour 1kg,Groceries,661,23135.0,128
+1004,Paneer 250g,Dairy,699,125820.0,131
+1009,Coca Cola 1.5L,Beverages,718,61030.0,136
+1014,Soap 125g,Personal Care,796,27860.0,157
+1010,Mineral Water 1L,Beverages,2601,65025.0,158
+1013,Shampoo 200ml,Personal Care,857,102840.0,145
+1006,Mustard Oil 500ml,Cooking Oil,652,78240.0,126
+1008,Chili Powder 100g,Spices,798,51870.0,136

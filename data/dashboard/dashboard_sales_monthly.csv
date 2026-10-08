@@ -1,0 +1,61 @@
+store_id,store_name,sales_month,quantity_sold,transaction_count,total_revenue,avg_transaction_value
+1,HITEC City Store,2024-10,143,29,8340.0,287.59
+1,HITEC City Store,2024-09,177,33,25395.0,769.55
+1,HITEC City Store,2024-05,218,40,19185.0,479.63
+5,Dilsukhnagar Store,2024-05,216,35,20285.0,579.57
+1,HITEC City Store,2024-08,169,29,14850.0,512.07
+2,Banjara Hills Store,2024-09,129,29,9885.0,340.86
+3,Ameerpet Store,2024-12,128,24,18695.0,778.96
+3,Ameerpet Store,2024-07,154,29,11655.0,401.9
+4,Kukatpally Store,2024-04,179,34,20115.0,591.62
+1,HITEC City Store,2024-11,168,28,19580.0,699.29
+2,Banjara Hills Store,2024-10,161,28,14485.0,517.32
+1,HITEC City Store,2024-04,193,33,28060.0,850.3
+3,Ameerpet Store,2024-09,117,23,14500.0,630.43
+3,Ameerpet Store,2024-11,164,31,13380.0,431.61
+4,Kukatpally Store,2024-10,162,33,18345.0,555.91
+2,Banjara Hills Store,2024-05,139,27,20130.0,745.56
+2,Banjara Hills Store,2024-03,120,20,9470.0,473.5
+3,Ameerpet Store,2024-08,172,31,17240.0,556.13
+4,Kukatpally Store,2024-08,155,24,12850.0,535.42
+5,Dilsukhnagar Store,2024-12,142,24,18250.0,760.42
+1,HITEC City Store,2024-07,171,27,17050.0,631.48
+4,Kukatpally Store,2024-05,151,28,15055.0,537.68
+1,HITEC City Store,2024-03,186,31,18735.0,604.35
+3,Ameerpet Store,2024-05,142,27,17580.0,651.11
+3,Ameerpet Store,2024-06,160,27,10695.0,396.11
+3,Ameerpet Store,2024-03,164,38,15115.0,397.76
+3,Ameerpet Store,2024-01,185,30,18680.0,622.67
+1,HITEC City Store,2024-12,180,31,14435.0,465.65
+2,Banjara Hills Store,2024-11,196,33,17020.0,515.76
+5,Dilsukhnagar Store,2024-03,190,35,22495.0,642.71
+2,Banjara Hills Store,2024-04,108,22,15905.0,722.95
+3,Ameerpet Store,2024-04,156,27,14495.0,536.85
+2,Banjara Hills Store,2024-02,133,27,12700.0,470.37
+4,Kukatpally Store,2024-09,100,20,9875.0,493.75
+4,Kukatpally Store,2024-03,116,25,10330.0,413.2
+5,Dilsukhnagar Store,2024-11,171,29,11985.0,413.28
+4,Kukatpally Store,2024-02,153,27,15855.0,587.22
+2,Banjara Hills Store,2024-08,178,31,12230.0,394.52
+4,Kukatpally Store,2024-12,105,19,12410.0,653.16
+5,Dilsukhnagar Store,2024-06,164,31,11245.0,362.74
+5,Dilsukhnagar Store,2024-10,178,30,24240.0,808.0
+2,Banjara Hills Store,2024-01,163,30,15455.0,515.17
+2,Banjara Hills Store,2024-07,166,30,14810.0,493.67
+4,Kukatpally Store,2024-06,136,29,12005.0,413.97
+2,Banjara Hills Store,2024-12,189,33,16745.0,507.42
+2,Banjara Hills Store,2024-06,156,28,11610.0,414.64
+5,Dilsukhnagar Store,2024-07,134,22,15405.0,700.23
+5,Dilsukhnagar Store,2024-08,185,32,14270.0,445.94
+3,Ameerpet Store,2024-10,135,24,20475.0,853.13
+4,Kukatpally Store,2024-07,163,34,11970.0,352.06
+5,Dilsukhnagar Store,2024-01,156,30,12215.0,407.17
+1,HITEC City Store,2024-01,160,31,18220.0,587.74
+3,Ameerpet Store,2024-02,141,28,10855.0,387.68
+1,HITEC City Store,2024-06,163,30,11790.0,393.0
+1,HITEC City Store,2024-02,167,31,18065.0,582.74
+4,Kukatpally Store,2024-11,87,19,7950.0,418.42
+5,Dilsukhnagar Store,2024-09,120,25,5980.0,239.2
+5,Dilsukhnagar Store,2024-04,161,29,15425.0,531.9
+4,Kukatpally Store,2024-01,123,21,14400.0,685.71
+5,Dilsukhnagar Store,2024-02,157,29,20290.0,699.66

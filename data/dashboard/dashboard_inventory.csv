@@ -1,0 +1,76 @@
+store_id,store_name,product_id,product_name,category,quantity_on_hand,stock_status
+1,HITEC City Store,1001,Basmati Rice 5kg,Groceries,212,Normal Stock
+1,HITEC City Store,1002,Wheat Flour 1kg,Groceries,348,Normal Stock
+1,HITEC City Store,1003,Amul Milk 1L,Dairy,0,Out of Stock
+1,HITEC City Store,1004,Paneer 250g,Dairy,0,Out of Stock
+1,HITEC City Store,1006,Mustard Oil 500ml,Cooking Oil,0,Out of Stock
+1,HITEC City Store,1008,Chili Powder 100g,Spices,0,Out of Stock
+1,HITEC City Store,1009,Coca Cola 1.5L,Beverages,177,Normal Stock
+1,HITEC City Store,1010,Mineral Water 1L,Beverages,261,Normal Stock
+1,HITEC City Store,1011,Lays Chips 40g,Snacks,0,Out of Stock
+1,HITEC City Store,1012,Biscuits Mix 200g,Snacks,78,Normal Stock
+1,HITEC City Store,1013,Shampoo 200ml,Personal Care,208,Normal Stock
+1,HITEC City Store,1014,Soap 125g,Personal Care,277,Normal Stock
+2,Banjara Hills Store,1001,Basmati Rice 5kg,Groceries,379,Normal Stock
+2,Banjara Hills Store,1002,Wheat Flour 1kg,Groceries,155,Normal Stock
+2,Banjara Hills Store,1003,Amul Milk 1L,Dairy,150,Normal Stock
+2,Banjara Hills Store,1004,Paneer 250g,Dairy,65,Normal Stock
+2,Banjara Hills Store,1006,Mustard Oil 500ml,Cooking Oil,492,Normal Stock
+2,Banjara Hills Store,1008,Chili Powder 100g,Spices,485,Normal Stock
+2,Banjara Hills Store,1009,Coca Cola 1.5L,Beverages,443,Normal Stock
+2,Banjara Hills Store,1010,Mineral Water 1L,Beverages,347,Normal Stock
+2,Banjara Hills Store,1011,Lays Chips 40g,Snacks,231,Normal Stock
+2,Banjara Hills Store,1012,Biscuits Mix 200g,Snacks,44,Low Stock
+2,Banjara Hills Store,1013,Shampoo 200ml,Personal Care,178,Normal Stock
+2,Banjara Hills Store,1014,Soap 125g,Personal Care,371,Normal Stock
+3,Ameerpet Store,1001,Basmati Rice 5kg,Groceries,87,Normal Stock
+3,Ameerpet Store,1002,Wheat Flour 1kg,Groceries,114,Normal Stock
+3,Ameerpet Store,1003,Amul Milk 1L,Dairy,399,Normal Stock
+3,Ameerpet Store,1004,Paneer 250g,Dairy,457,Normal Stock
+3,Ameerpet Store,1006,Mustard Oil 500ml,Cooking Oil,221,Normal Stock
+3,Ameerpet Store,1008,Chili Powder 100g,Spices,60,Normal Stock
+3,Ameerpet Store,1009,Coca Cola 1.5L,Beverages,89,Normal Stock
+3,Ameerpet Store,1010,Mineral Water 1L,Beverages,486,Normal Stock
+3,Ameerpet Store,1011,Lays Chips 40g,Snacks,18,Low Stock
+3,Ameerpet Store,1012,Biscuits Mix 200g,Snacks,356,Normal Stock
+3,Ameerpet Store,1013,Shampoo 200ml,Personal Care,161,Normal Stock
+3,Ameerpet Store,1014,Soap 125g,Personal Care,14,Low Stock
+4,Kukatpally Store,1001,Basmati Rice 5kg,Groceries,324,Normal Stock
+4,Kukatpally Store,1002,Wheat Flour 1kg,Groceries,331,Normal Stock
+4,Kukatpally Store,1003,Amul Milk 1L,Dairy,366,Normal Stock
+4,Kukatpally Store,1004,Paneer 250g,Dairy,41,Low Stock
+4,Kukatpally Store,1006,Mustard Oil 500ml,Cooking Oil,474,Normal Stock
+4,Kukatpally Store,1008,Chili Powder 100g,Spices,3,Low Stock
+4,Kukatpally Store,1009,Coca Cola 1.5L,Beverages,163,Normal Stock
+4,Kukatpally Store,1010,Mineral Water 1L,Beverages,221,Normal Stock
+4,Kukatpally Store,1011,Lays Chips 40g,Snacks,235,Normal Stock
+4,Kukatpally Store,1012,Biscuits Mix 200g,Snacks,97,Normal Stock
+4,Kukatpally Store,1013,Shampoo 200ml,Personal Care,403,Normal Stock
+4,Kukatpally Store,1014,Soap 125g,Personal Care,29,Low Stock
+5,Dilsukhnagar Store,1001,Basmati Rice 5kg,Groceries,131,Normal Stock
+5,Dilsukhnagar Store,1002,Wheat Flour 1kg,Groceries,182,Normal Stock
+5,Dilsukhnagar Store,1003,Amul Milk 1L,Dairy,262,Normal Stock
+5,Dilsukhnagar Store,1004,Paneer 250g,Dairy,24,Low Stock
+5,Dilsukhnagar Store,1006,Mustard Oil 500ml,Cooking Oil,464,Normal Stock
+5,Dilsukhnagar Store,1008,Chili Powder 100g,Spices,169,Normal Stock
+5,Dilsukhnagar Store,1009,Coca Cola 1.5L,Beverages,34,Low Stock
+5,Dilsukhnagar Store,1010,Mineral Water 1L,Beverages,301,Normal Stock
+5,Dilsukhnagar Store,1011,Lays Chips 40g,Snacks,439,Normal Stock
+5,Dilsukhnagar Store,1012,Biscuits Mix 200g,Snacks,197,Normal Stock
+5,Dilsukhnagar Store,1013,Shampoo 200ml,Personal Care,0,Out of Stock
+5,Dilsukhnagar Store,1014,Soap 125g,Personal Care,430,Normal Stock
+1,HITEC City Store,1010,Mineral Water 1L,Beverages,261,Normal Stock
+1,HITEC City Store,1012,Biscuits Mix 200g,Snacks,78,Normal Stock
+2,Banjara Hills Store,1010,Mineral Water 1L,Beverages,347,Normal Stock
+2,Banjara Hills Store,1012,Biscuits Mix 200g,Snacks,44,Low Stock
+3,Ameerpet Store,1010,Mineral Water 1L,Beverages,486,Normal Stock
+3,Ameerpet Store,1012,Biscuits Mix 200g,Snacks,356,Normal Stock
+4,Kukatpally Store,1010,Mineral Water 1L,Beverages,221,Normal Stock
+4,Kukatpally Store,1012,Biscuits Mix 200g,Snacks,97,Normal Stock
+5,Dilsukhnagar Store,1010,Mineral Water 1L,Beverages,301,Normal Stock
+5,Dilsukhnagar Store,1012,Biscuits Mix 200g,Snacks,197,Normal Stock
+1,HITEC City Store,1010,Mineral Water 1L,Beverages,261,Normal Stock
+2,Banjara Hills Store,1010,Mineral Water 1L,Beverages,347,Normal Stock
+3,Ameerpet Store,1010,Mineral Water 1L,Beverages,486,Normal Stock
+4,Kukatpally Store,1010,Mineral Water 1L,Beverages,221,Normal Stock
+5,Dilsukhnagar Store,1010,Mineral Water 1L,Beverages,301,Normal Stock
